@@ -1,7 +1,7 @@
-This Repository contains simple example which perform 'K-means'Clustering 
-on a text corpus using Scikit-Learn.
+This Repository contains a simple example which performs 'K-means'Clustering 
+on a text corpus (space-delimited) using Scikit-Learn.
 
-Scikit-Learn is essential for execution of these programs.
+Scikit-Learn is essential for execution of this program.
 
 
 
